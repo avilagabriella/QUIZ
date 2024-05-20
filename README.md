@@ -7,7 +7,6 @@ Um quiz com 10 perguntas básicas sobre português. Se divirta!
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
 
 ## COMO TESTAR:
 - 1 clone este repositório;
